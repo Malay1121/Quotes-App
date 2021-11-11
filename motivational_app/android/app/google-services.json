@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280227152044",
+    "project_id": "motivaitional-app",
+    "storage_bucket": "motivaitional-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280227152044:android:3c1c6f54cdea22f0109f09",
+        "android_client_info": {
+          "package_name": "com.azsoft.motivational_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280227152044-q2j3rldqhga1lu7aaisp3tprhameumto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-c9jOUW4G6hu68HsgWPe6arSkYAws-Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280227152044-q2j3rldqhga1lu7aaisp3tprhameumto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
